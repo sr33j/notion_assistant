@@ -3,12 +3,16 @@ This takes your notion and allows you to ask questions about it.
 Example of `advanced_query.py`:
 ```
 Ask a question about yourself: What is my ideal daily routine? Please start from 8am EST to 11pm EST, and create a schedule.
+
+
 ===== BREAKING DOWN ORIGINAL QUESTION =====
 --- Breaking down What is my ideal daily routine? Please start from 8am EST to 11pm EST, and screate a schedule. ---
  What are my personal goals and priorities?
  How much time and energy do I have available during this timeframe?
  What tasks and activities are essential and non-negotiable for me?
 ------------------------
+
+
 ===== ANSWERING SUBQUESTIONS WITH REFERENCES =====
 --- Answering  What are my personal goals and priorities? ---
 Based on the documents provided, your personal goals and priorities include:
@@ -21,9 +25,13 @@ Based on the documents provided, your personal goals and priorities include:
 
 It's important to note that these goals may evolve and change over time as you gain new experiences and insights. Take the time to regularly reassess and adjust your priorities based on what truly brings you fulfillment and happiness.
 ------------------------
+
+
 --- Answering  How much time and energy do I have available during this timeframe? ---
 Based on the notes provided, it seems that time and energy are considered as similar resources. The notes mention that money saves time and energy, and that the more time you spend, the more energy you lose. It also suggests that planning helps avoid resentment towards people. To determine how much time and energy you have available during this timeframe, you can start by considering factors such as your current status, assets you have (including time and energy), and how you choose to allocate your resources. You may need to budget these resources weekly to ensure efficient use.
 ------------------------
+
+
 --- Answering  What tasks and activities are essential and non-negotiable for me? ---
 Based on the provided notes, the essential and non-negotiable tasks and activities for you are:
 
@@ -33,6 +41,8 @@ Based on the provided notes, the essential and non-negotiable tasks and activiti
 4) Engaging in activities you enjoy.
         ...
 ------------------------
+
+
 ===== ANSWERING ORIGINAL QUESTION BASED ON DEDUCTIONS =====
 --- SYNTHESIS ---
 Ideal Daily Routine (8am EST to 11pm EST):
