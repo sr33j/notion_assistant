@@ -34,7 +34,7 @@ Based on the provided notes, the essential and non-negotiable tasks and activiti
         ...
 ------------------------
 ===== ANSWERING ORIGINAL QUESTION BASED ON DEDUCTIONS =====
---- SYNTHESIS PROMPT ---
+--- SYNTHESIS ---
 Ideal Daily Routine (8am EST to 11pm EST):
 
 8am-9am: Morning routine including meditation and exercise.

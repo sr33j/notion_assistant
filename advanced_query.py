@@ -125,7 +125,7 @@ def generate_response_from_subanswers(query, subquestions, subanswers):
         {"role": "user", "content": prompt}
     ])
 
-    print("--- SYNTHESIS PROMPT ---")
+    print("--- SYNTHESIS ---")
     answer = completion.choices[0].message.content
     print(answer)
     print("------------------------")
